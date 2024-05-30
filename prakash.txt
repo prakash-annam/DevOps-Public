@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Welcome to devops
+=======
+welcome to devops
+>>>>>>> 999b154ea24a406b9efe75c59b5a743650914ace
